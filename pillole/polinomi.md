@@ -1,4 +1,4 @@
-# Induzione
+# Polinomi
 
 ## Contenuti
 

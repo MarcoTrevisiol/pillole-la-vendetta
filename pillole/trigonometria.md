@@ -1,4 +1,4 @@
-# Induzione
+# Trigonometria
 
 ## Contenuti
 
