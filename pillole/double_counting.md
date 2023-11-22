@@ -1,0 +1,14 @@
+# Double counting
+
+## Contenuti
+
+- Principio
+
+## Esempi
+
+- Double counting su tabella: somma 1..n stile Gauss (e anche somma 1^2..n^2)
+- Double counting su insiemi: somma su tutte le coppie di sottoinsiemi della cardinalità dell'intersezione e simili
+- Double counting per smontare somme con coefficienti binomiali (e funzioni polinomiali): somma di k(n su k), somma di k^2(n su k)
+- Double counting su grafi: il classico "somma dei gradi è pari", utilizzare condizioni sul numero di triangoli o di V
+
+## Indicazioni Esercizi
