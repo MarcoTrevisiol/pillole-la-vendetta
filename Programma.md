@@ -16,6 +16,7 @@
 
 - [conteggi](pillole/conteggi.md)
 - [coefficienti binomiali](pillole/coefficienti_binomiali.md)
+- [double counting](pillole/double_counting.md)
 - [grafi](pillole/grafi.md)
 - [invarianti](pillole/invarianti.md)
 

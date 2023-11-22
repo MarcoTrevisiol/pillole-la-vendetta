@@ -2,7 +2,7 @@
 
 ## Contenuti
 
-- Principio
+Raccontare il principio astrattamente: su tabella rettangolare, su tabella triangolare, su prodotto cartesiano, su prodotto fibrato (di insiemi).
 
 ## Esempi
 
