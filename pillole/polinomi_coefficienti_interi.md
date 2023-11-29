@@ -9,5 +9,6 @@
 ## Esempi
 
 - Un polinomio a coefficienti interi non può ciclare 3 valori (p(a) = b, p(b) = c, p(c) = a).
+- Dimostrare che x^4-3x^2+1 non si fattorizza (via lemma di Gauss).
 
 ## Indicazioni Esercizi
