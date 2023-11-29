@@ -5,7 +5,7 @@
 - Definizione e operazioni.
 - Divisione con resto e Bezout.
 - Teorema di Ruffini, disuguaglianza radici <= grado, principio identità di polinomi.
-- Fattorizzazione.
+- Fattorizzazione. Fattorizzazione in C. Fattorizzazione in R.
 
 ## Esempi
 
