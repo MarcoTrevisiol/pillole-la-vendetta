@@ -3,7 +3,7 @@
 ## Contenuti
 
 - Definizione di equazione diofantea.
-- Semplificazioni standard per affrontare ax+by=c. 
+- Semplificazioni standard per affrontare `ax+by=c`.
 - Teorema di Bezout (con relativo algoritmo).
 - Teorema dei Chicken-McNuggets.
 

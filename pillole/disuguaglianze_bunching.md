@@ -8,7 +8,7 @@
 
 ## Esempi
 
-- a^2 + b^2 + c^2 >= ab + bc + ca
+- `a^2 + b^2 + c^2 >= ab + bc + ca`
 - Nesbitt
 
 ## Indicazioni Esercizi

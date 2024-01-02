@@ -6,6 +6,6 @@ Definizioni (con i primi esempi, come le radici 4, 6, 8, 12-esime). Interpretazi
 
 ## Esempi
 
-- Quanto vale la somma delle lunghezze delle diagonali di un n-agono inscritto nella circonferenza unitaria?
+- Quanto vale la somma delle lunghezze delle diagonali di un `n`-agono inscritto nella circonferenza unitaria?
 
 ## Indicazioni Esercizi

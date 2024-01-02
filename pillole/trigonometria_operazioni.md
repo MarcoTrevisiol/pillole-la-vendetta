@@ -10,6 +10,6 @@
 ## Esempi
 
 - esempio di prostaferesi/Werner
-- calcolo di sin e cos per angoli come \pi/8, \pi/12
+- calcolo di sin e cos per angoli come `\pi/8`, `\pi/12`
 
 ## Indicazioni Esercizi
