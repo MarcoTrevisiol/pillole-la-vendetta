@@ -14,8 +14,17 @@
 - [polinomi interpolazione](pillole/interpolazione.md)
 - [numeri complessi](pillole/numeri_complessi.md)
 - [radici dell'unità](pillole/radici_dellunita.md)
+- [disuguaglianza AM - GM](pillole/disuguaglianza_amgm.md)
+- [disuguaglianze Bunching](pillole/disuguaglianza_bunching.md)
+- [disuguaglianze convessità](pillole/disuguaglianze_convessita.md)
+- [disuguaglianze Cauchy - Schwarz](pillole/disuguaglianze_cs.md)
+- [disuguaglianze riarrangiamento](pillole/disuguaglianze_riarrangiamento.md)
+- [disuguaglianze riepilogo](pillole/disuguaglianze_riepilogo.md)
 - [successioni](pillole/successioni.md)
 - [successioni per ricorrenza lineari](pillole/successioni_ricorrenza_lineari.md)
+- [funzioni](pillole/funzioni.md)
+- [equazioni funzionali](pillole/equazioni_funzionali.md)
+- [arnesi funzionali](pillole/arnesi_funzionali.md)
 
 ## Combinatoria
 
@@ -37,6 +46,8 @@
 - [vettori definizioni](pillole/vettori_definizioni.md)
 - [vettori lunghezze e angoli](pillole/vettori_lunghezze_angoli.md)
 - [vettori triangoli](pillole/vettori_triangoli.md)
+- [complessi](pillole/complessi_geometrici.md)
+- [complessi trasformazioni](pillole/complessi_trasformazioni.md)
 - [sintetica quadrilateri ciclici](pillole/sintetica_ciclici.md)
 - [sintetica ceva](pillole/sintetica_ceva.md)
 - [sintetica menelao](pillole/sintetica_menelao.md)
@@ -48,5 +59,9 @@
 
 - [divisibilità](pillole/divisibilita.md)
 - [congruenze](pillole/congruenze.md)
+- [congruenze mod p](pillole/congruenze_p.md)
+- [equazioni diofantee arnesi](pillole/diofantee_arnesi.md)
+- [equazioni diofantee divisibilità](pillole/diofantee_divisibilita.md)
 - [equazioni diofantee lineari](pillole/diofantee_lineari.md)
 - [struttura moltiplicativa](pillole/struttura_moltiplicativa.md)
+- [funzioni aritmetiche](pillole/funzioni_aritmetiche.md)
