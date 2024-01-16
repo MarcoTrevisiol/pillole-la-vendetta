@@ -47,6 +47,7 @@
 - [grafi](pillole/grafi.md)
 - [invarianti](pillole/invarianti.md)
 - [colorazioni](pillole/colorazioni.md)
+- [permutazioni](pillole/permutazioni.md)
 
 ## Geometria
 

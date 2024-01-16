@@ -10,9 +10,9 @@
 
 ## Esempi
 
-- Calcolo di permutazioni, funzioni, funzioni iniettive
+- Calcolo di permutazioni, funzioni, parti, funzioni iniettive
 - Numero di funzioni suriettive
-- Conteggi che hanno binomiale come risposta: percorsi monotoni e varianti, anagrammi
+- Conteggi che hanno binomiale come risposta: percorsi monotoni e varianti, anagrammi (e multinomiali)
 - Riporre `n` biglie {distinguibili,indistinguibili} in `k` scatole {distinguibili,indistinguibili}
 - Numeri di Catalan: parentesi ben formate, percorsi monotoni sotto la diagonale, numero di triangolazioni di un poligono convesso, alberi binari
 - Cammini sui vertici di un poliedro, stringhe binarie senza due 0 consecutivi
