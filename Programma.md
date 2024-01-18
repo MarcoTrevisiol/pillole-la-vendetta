@@ -46,6 +46,7 @@
 - [double counting](pillole/double_counting.md)
 - [grafi](pillole/grafi.md)
 - [invarianti](pillole/invarianti.md)
+- [estremale](pillole/estremale.md)
 - [colorazioni](pillole/colorazioni.md)
 - [permutazioni](pillole/permutazioni.md)
 
