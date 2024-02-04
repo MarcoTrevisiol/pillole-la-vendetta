@@ -10,7 +10,7 @@
 
 ## Esempi
 
-- Calcolo di permutazioni, funzioni, parti, funzioni iniettive
+- Calcolo di permutazioni, funzioni (sottoinsiemi), parti, funzioni iniettive
 - Numero di funzioni suriettive
 - Conteggi che hanno binomiale come risposta: percorsi monotoni e varianti, anagrammi (e multinomiali)
 - Riporre `n` biglie {distinguibili,indistinguibili} in `k` scatole {distinguibili,indistinguibili}

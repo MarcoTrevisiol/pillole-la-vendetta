@@ -49,6 +49,7 @@
 - [estremale](pillole/estremale.md)
 - [colorazioni](pillole/colorazioni.md)
 - [permutazioni](pillole/permutazioni.md)
+- [giochi](pillole/giochi.md)
 
 ## Geometria
 

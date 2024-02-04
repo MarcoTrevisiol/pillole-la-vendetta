@@ -13,5 +13,6 @@ Raccontare il principio astrattamente: su tabella rettangolare, su tabella trian
 - Numero di partizioni in addendi distinti = numero di partizioni in addendi dispari
 - Somma dei quadrati binomiali su una riga fa `(2n su n)`
 - Valutazione `p`-adica del fattoriale
+- Tabella `3 x 7` BN, allora esisono due righe e due colonne le cui 4 intersezioni sono monocromatiche
 
 ## Indicazioni Esercizi
