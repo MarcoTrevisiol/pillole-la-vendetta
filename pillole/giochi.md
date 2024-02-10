@@ -16,6 +16,7 @@ Divisione delle configurazioni in vincenti e perdenti: da ogni vincente esiste m
 - gioco dei piatti circolare da appoggiare su un tavolo rettangolare; perde chi non può posizionare un piatto senza intersecare un altro piatto (strategia con opposizione di mossa)
 - si gioca sui divisori di `n`, dopo la prima mossa occorre dire un multiplo o un divisore del numero dichiarato dal giocatore precedente; perde chi ripete un numero già detto (vince il secondo giocatore se `n` non è un quadrato perfetto con la strategia di opposizione)
 - si gioca sugli interi fino a `n`, ogni volta che viene detto un numero si cancellano tutti i suoi divisori (positivi), perde chi non può più dire un numero (il primo giocatore ha strategia vincente perché può decidere di cancellare o meno il numero `1`, totalmente non costruttiva)
+- il Nim(?)
 
 ## Indicazioni Esercizi
 

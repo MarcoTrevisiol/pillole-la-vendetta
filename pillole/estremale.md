@@ -11,7 +11,7 @@ Per mostrare un esempio con proprietà P, cerco un esempio che massimizza o mini
 - serbatoi attorno a un cerchio con carburante sufficiente complessivamente a compiere un giro; allora esiste stazione di partenza dalla quale compio un giro
 - teorema di Sylvester
 - grafo di città con alcune strade a senso unico, con almeno una via tra ogni coppia, allora esiste una città da dove arrivo dappertutto e una che riesco sempre a raggiungere
-- un albero ha sempre una foglia
+- un albero ha sempre una foglia; un albero ha due foglie (prendere il diametro)
 
 ## Indicazioni Esercizi
 
