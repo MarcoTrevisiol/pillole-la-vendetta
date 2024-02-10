@@ -2,7 +2,7 @@
 
 ## Contenuti
 
-Definizione di gioco finito (con due giocatori, perfetta informazione).
+Definizione di gioco (sequenziale, con due giocatori, finito, a somma zero, perfetta informazione). Eg: scacchi; non esempio: il dilemma del prigioniero. Definizione di strategia. Definizione di strategia vincente.
 
 Esistenza di strategia vincente per uno dei due giocatori (volendo aggiungere la variante con il pareggio).
 
