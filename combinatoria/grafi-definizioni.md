@@ -1,4 +1,4 @@
-# Grafi
+# Grafi: definizioni
 
 Carrellata di definizioni molto basilari con esempi, prevalentemente nella forma di disegno.
 
