@@ -1,6 +1,8 @@
 # Permutazioni: definizioni
 
-Definizioni. Decomposizione in cicli disgiunti.
+Definizioni. Decomposizione in cicli disgiunti (essenzialmente grafo `2`-regolare, riferimento).
 
-Conteggio delle permutazioni. Conteggio permutazioni senza punti fissi.
+## Conteggi
 
+- di tutte le permutazioni
+- di quelle senza punti fissi.
