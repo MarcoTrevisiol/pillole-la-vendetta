@@ -46,23 +46,7 @@
 
 ## Geometria
 
-- [trigonometria](pillole/trigonometria.md)
-- [trigonometria operazioni](pillole/trigonometria_operazioni.md)
-- [trigonometria formule](pillole/trigonometria_formule.md)
-- [trigonometria triangoli](pillole/trigonometria_triangoli.md)
-- [geometria analitica](pillole/geometria_analitica_base.md)
-- [geometria analitica luoghi](pillole/geometria_analitica_luoghi.md)
-- [vettori definizioni](pillole/vettori_definizioni.md)
-- [vettori lunghezze e angoli](pillole/vettori_lunghezze_angoli.md)
-- [vettori triangoli](pillole/vettori_triangoli.md)
-- [complessi](pillole/complessi_geometrici.md)
-- [complessi trasformazioni](pillole/complessi_trasformazioni.md)
-- [sintetica quadrilateri ciclici](pillole/sintetica_ciclici.md)
-- [sintetica ceva](pillole/sintetica_ceva.md)
-- [sintetica menelao](pillole/sintetica_menelao.md)
-- [sintetica configurazione ortocentro circocentro](pillole/sintetica_ortocentro_circocentro.md)
-- [sintetica inversione](pillole/sintetica_inversione.md)
-- [sintetica trasformazioni](pillole/sintetica_trasformazioni.md)
+[Geometria](Geometria.md)
 
 ## Teoria dei Numeri
 
