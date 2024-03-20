@@ -34,7 +34,7 @@
     - [ ] N
 - splittare completamente il programma in pillole
     - [ ] A
-    - [ ] C
+    - [x] C
     - [ ] G
     - [ ] N
 
