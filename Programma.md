@@ -2,9 +2,7 @@
 
 ## Preliminari
 
-- [induzione](pillole/induzione.md)
-- [induzione: insidie tipiche](pillole/induzione_insidie.md)
-- [pigeonhole](pillole/pigeonhole.md)
+[Preliminari](Preliminari.md)
 
 ## Algebra
 
