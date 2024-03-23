@@ -2,13 +2,10 @@
 
 ## Contenuti
 
-- Complessi nel piano di Gauss, rappresentazioni cartesiana e polare (con relativi pro e contro).
-- Traslazioni, rotaizoni, omotetie con somma e prodotto.
-- Costruzione di triangoli equilateri e quadrati, triangoli simili.
+- Complessi nel piano di Gauss, rappresentazioni cartesiana e polare (con relativi pro e contro e riferimento a trigonometria).
+- Traslazioni, rotazioni, omotetie con somma e prodotto.
 
 ## Esempi
 
-- Equazione della circonferenza goniometrica.
+- Costruzione di triangoli equilateri e quadrati, triangoli simili.
 - Teorema di Napoleone.
-
-## Indicazioni Esercizi

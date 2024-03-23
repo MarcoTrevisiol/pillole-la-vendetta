@@ -1,6 +1,5 @@
 # Geometria sintetica: quadrilateri ciclici
 
-## Contenuti
 
 Condizioni necessarie e sufficienti per la ciclicità:
 
@@ -9,10 +8,5 @@ Condizioni necessarie e sufficienti per la ciclicità:
 - teoremi delle corde, secanti, tangente/secante (definizione di potenza);
 - teorema di Tolomeo (solo riferimento alla pillola sull'inversione).
 
-Asse radicale come luogo di punti equipotenti. Dimostrazione che è una retta. Anche asse radicale punto-circonferenza. Riferimento a analitica: luoghi geometrici.
 
-Teorema di Reim (parallelismo di due rette che escono da una configurazione di due circonferenze secanti).
-
-## Esempi
-
-## Indicazioni Esercizi
+Esempio: Teorema di Reim (parallelismo di due rette che escono da una configurazione di due circonferenze secanti).
