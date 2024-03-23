@@ -10,27 +10,27 @@
 - controllare i contenuti del senior basic vecchio
     - [ ] A
     - [x] C
-    - [ ] G
+    - [x] G
     - [ ] N
 - double-check del senior basic nuovo (parte teorica)
     - [ ] A
     - [x] C
-    - [ ] G
+    - [x] G
     - [ ] N
 - controllare che tutto il test d'ammissione sia coperto
     - [ ] A
     - [x] C
-    - [ ] G
+    - [x] G
     - [ ] N
 - integrare il contenuto delle precedenti pillole
     - [ ] A
     - [x] C
-    - [ ] G
+    - [x] G
     - [ ] N
 - descrivere il contenuto di ciascuna pillola (aggiungendo gli esempi rilevanti esplicitamente)
     - [ ] A
     - [x] C
-    - [ ] G
+    - [x] G
     - [ ] N
 - splittare completamente il programma in pillole
     - [ ] A

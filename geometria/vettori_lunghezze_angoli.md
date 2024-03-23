@@ -10,4 +10,6 @@
 
 Ortocentro.
 
+Calcolare le distanze OH, OG, OI.
+
 ## Indicazioni Esercizi
