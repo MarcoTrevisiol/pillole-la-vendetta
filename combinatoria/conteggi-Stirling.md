@@ -9,4 +9,3 @@ Ricorsione simile a quella dei binomiali.
 Formula: `x^n = sum_k stirlink(n,k)binom(x,k)`
 
 Definizione dei numeri di Bell: partizioni senza fissare il numero di parti. Es: Cese 6 2021.
-
