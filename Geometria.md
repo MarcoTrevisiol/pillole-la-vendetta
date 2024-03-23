@@ -2,37 +2,45 @@
 
 ## Trigonometria
 
-- [trigonometria](geometria/trigonometria.md)
-- [trigonometria operazioni](geometria/trigonometria_operazioni.md)
-- [trigonometria formule](geometria/trigonometria_formule.md)
-- [trigonometria triangoli](geometria/trigonometria_triangoli.md)
+- [definizioni](geometria/trigonometria.md)
+- [operazioni](geometria/trigonometria_operazioni.md)
+- [formula di somma per sin](geometria/trigonometria_somma.md)
+- [formule utili](geometria/trigonometria_formule.md)
+- [teoremi classici](geometria/trigonometria_classici.md)
+- [risoluzione di un triangolo](geometria/trigonometria_risoluzione_triangolo.md)
 
 
 ## Geometria analitica
 
-- [geometria analitica](geometria/geometria_analitica_base.md)
-- [geometria analitica luoghi](geometria/geometria_analitica_luoghi.md)
+- [punti](geometria/geometria_analitica_base.md)
+- [rette](geometria/geometria_analitica_rette.md)
+- [circonferenze](geometria/geometria_analitica_circonferenze.md)
+- [luoghi di punti](geometria/geometria_analitica_luoghi.md)
 
 
 ## Vettori
 
-- [vettori definizioni](geometria/vettori_definizioni.md)
-- [vettori lunghezze e angoli](geometria/vettori_lunghezze_angoli.md)
-- [vettori triangoli](geometria/vettori_triangoli.md)
+- [definizioni](geometria/vettori_definizioni.md)
+- [prodotto scalare](geometria/vettori_scalare.md)
+- [distanze notevoli](geometria/vettori_distanze_notevoli.md)
+- [costruzioni classiche](geometria/vettori_costruzioni.md)
 
 
 ## Numeri complessi
 
-- [complessi](geometria/complessi_geometrici.md)
-- [complessi trasformazioni](geometria/complessi_trasformazioni.md)
+- [trasformazioni del piano](geometria/complessi_trasformazioni.md)
+- [tecniche di base](geometria/complessi_tecniche.md)
+- [esempi applicazione tecniche](geometria/complessi_esempi.md)
 
 
 ## Geometria sintetica
 
-- [sintetica quadrilateri ciclici](geometria/sintetica_ciclici.md)
-- [sintetica ceva](geometria/sintetica_ceva.md)
-- [sintetica menelao](geometria/sintetica_menelao.md)
-- [sintetica configurazione ortocentro circocentro](geometria/sintetica_ortocentro_circocentro.md)
-- [sintetica inversione](geometria/sintetica_inversione.md)
-- [sintetica trasformazioni](geometria/sintetica_trasformazioni.md)
+- [quadrilateri ciclici](geometria/sintetica_ciclici.md)
+- [concorrenze](geometria/sintetica_concorrenze.md)
+- [allineamenti](geometria/sintetica_allineamenti.md)
+- [coniugati isogonali e isotomici](geometria/sintetica_coniugati.md)
+- [trasformazioni](geometria/sintetica_trasformazioni.md)
+- [inversione circolare](geometria/sintetica_inversione.md)
+- [configurazione ortocentro-circocentro](geometria/sintetica_ortocentro_circocentro.md)
+- [esempi classici](geometria/sintetica_esempi.md)
 

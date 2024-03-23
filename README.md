@@ -35,7 +35,7 @@
 - splittare completamente il programma in pillole
     - [ ] A
     - [x] C
-    - [ ] G
+    - [x] G
     - [ ] N
 
 ### Test
