@@ -4,3 +4,4 @@ Quantità che variano in una sola direzione. Utilizzo per dimostrare che certe s
 
 - nani che ridipingono la propria casa in base alla maggioranza
 - `n` interi positivi, con una mossa sostituisco due interi consecutivi `(x,y)`, con `x > y` e `x` a sinistra di `y` e li sostituisco con `(y+1,x)` oppure con `(x-1,x)`: mostrare che sono possibili solo un numero finito di mosse
+- sommare funzione convessa su pile di monete per mostrare che mosse del tipo "taglio in due una pila" decrescono una quantità (anche se non è la somma delle monete) (riferimento ad algebra: convessità)

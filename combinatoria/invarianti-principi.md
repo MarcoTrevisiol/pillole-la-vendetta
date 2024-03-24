@@ -2,7 +2,7 @@
 
 Descrizione del contesto generale: configurazioni dove sono presenti delle mosse, costruzione di quantità che dipendono unicamente dallo stato, dimostrazioni di impossibilità di raggiungere uno stato finale dato un certo stato iniziale con invariante diverso. Parole chiavi: mosse che cambiano un sistema.
 
-Esempi banali (alfieri degli scacchi, ecc.)
+Esempi banali (alfieri degli scacchi, modificare un polinomio ax^2+bx+c con due mosse: scambiare a,c oppure traslare la x)
 
 ## Monovarianti
 
