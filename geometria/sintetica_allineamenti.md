@@ -1,6 +1,6 @@
 # Geometria sintetica: allineamenti
 
-- Teorema di Menelao e allineamento tramite omotetia: è un se e solo se.
+- Teorema di Menelao e allineamento tramite omotetia: è un se e solo se (riferimento a pillola su trasformazioni).
 - Definizione di centro di similitudine interno ed esterno di due circonferenze.
 
 ## Esempi

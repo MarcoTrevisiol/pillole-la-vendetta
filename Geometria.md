@@ -36,6 +36,7 @@
 ## Geometria sintetica
 
 - [quadrilateri ciclici](geometria/sintetica_ciclici.md)
+- [potenze](geometria/sintetica_potenze.md)
 - [concorrenze](geometria/sintetica_concorrenze.md)
 - [allineamenti](geometria/sintetica_allineamenti.md)
 - [coniugati isogonali e isotomici](geometria/sintetica_coniugati.md)
