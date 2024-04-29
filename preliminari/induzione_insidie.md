@@ -11,6 +11,7 @@ Esempi di insidie tipiche dell'applicazione sbagliata dell'induzione: non contro
 - dimostrazione sbagliata "aggiungendo" del teorema di Sylvester
 - tutti i grafi senza vertici isolati sono connessi: aggiungo un vertice nel P.I.
 - (2n choose n) <= 4^n/sqrt{3n}
+- tutti i cavalli sono dello stesso colore (passo induttivo errato per n=1)
 
 ## Indicazioni Esercizi
 

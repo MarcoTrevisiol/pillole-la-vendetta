@@ -15,6 +15,8 @@ Definizione classica di `n+1` oggetti in `n` cassetti; `kn+1` oggetti in `n` cas
 - Quanti alfieri possono stare in una scacchiera senza che due si minaccino a vicenda?
 - Lemma `ab+1` (detto anche Erdős–Szekeres theorem).
 - Approssimazione di Dirichlet dei numeri irrazionali.
+- Comunque scelti `n` interi, c'è un sottoinsieme non vuoto che ha somma congrua a `0` mod `n`.
+- Quante sequenze di `k` cifre (decimali) al massimo posso avere in modo da non prendere mai due coppie che distano solo in una posizione? (`10^(k-1)`)
 
 ## Indicazioni Esercizi
 
