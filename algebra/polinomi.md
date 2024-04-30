@@ -5,7 +5,7 @@
 - Definizione e operazioni. Grado e proprietà. 
 - Divisione con resto e Bezout (importanza del caso monico). Polinomi irriducibili vs polinomi senza radici.
 - Teorema di Ruffini, disuguaglianza radici <= grado, principio identità di polinomi.
-- Fattorizzazione. Fattorizzazione in `C`. Fattorizzazione in `R`.
+- Fattorizzazione (esistenza e unicità su ogni campo). Fattorizzazione in `C`. Fattorizzazione in `R`.
 - Criterio della derivata per radici multiple.
 
 ## Esempi
