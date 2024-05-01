@@ -2,7 +2,7 @@
 
 ## Contenuti
 
-- Presentazione del problema, discussione dell'unicità per il principio dei polinomi.
+- Presentazione del problema, discussione dell'unicità per il principio di identità dei polinomi.
 - Interpolazione di Lagrange (stile algebra lineare).
 - Interpolazione costruita induttivamente un punto alla volta.
 

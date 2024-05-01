@@ -2,10 +2,12 @@
 
 # Polinomi
 
-- [polinomi](algebra/polinomi.md)
+- [polinomi: divisione](algebra/polinomi_divisione.md)
+- [polinomi: Ruffini](algebra/polinomi_ruffini.md)
+- [polinomi: fattorizzazione](algebra/polinomi_fattorizzazione.md)
 - [polinomi: relazioni radici coefficienti](algebra/radici_coefficienti.md)
 - [polinomi a coefficienti interi](algebra/polinomi_coefficienti_interi.md)
-- [polinomi interpolazione](algebra/interpolazione.md)
+- [polinomi: interpolazione](algebra/interpolazione.md)
 
 
 # Numeri complessi
