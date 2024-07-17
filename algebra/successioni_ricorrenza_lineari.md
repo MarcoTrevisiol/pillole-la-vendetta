@@ -11,4 +11,4 @@ Teoria generale su successioni per ricorrenza lineari
 
 ## Esempi
 
-## Indicazioni Esercizi
+- svolgere il conto per i Fibonacci
