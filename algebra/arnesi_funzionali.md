@@ -9,4 +9,5 @@ Carrellata di tecniche di base per risolvere equazioni funzionali:
 - sfruttare simmetria di uno fra LHS e RHS
 - uguagliare due termini con la `f`
 - gestire il mistone
-- ricondursi alla Cauchy (eg: f(x+f(y)) = f(x) + y)
+- ricondursi alla Cauchy (eg: `f(x+f(y)) = f(x) + y`)
+- `f(x+f(y)) = f(x)+f(y)` ammette anche soluzioni tipo "parte intera"
