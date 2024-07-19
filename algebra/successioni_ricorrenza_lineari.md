@@ -12,3 +12,4 @@ Teoria generale su successioni per ricorrenza lineari
 ## Esempi
 
 - svolgere il conto per i Fibonacci
+- utile anche al contrario (es: formula con potenze e numeri complessi che dà sempre risultati interi)
