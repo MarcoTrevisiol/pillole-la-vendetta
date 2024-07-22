@@ -8,17 +8,17 @@
 - [x] delineare interamente il programma in pillole
 - [x] integrare il contenuto di Senior TEMP
 - controllare i contenuti del senior basic vecchio
-    - [ ] A
+    - [x] A
     - [x] C
     - [x] G
     - [ ] N
 - double-check del senior basic nuovo (parte teorica)
-    - [ ] A
+    - [x] A
     - [x] C
     - [x] G
     - [ ] N
 - controllare che tutto il test d'ammissione sia coperto
-    - [ ] A
+    - [x] A
     - [x] C
     - [x] G
     - [ ] N
