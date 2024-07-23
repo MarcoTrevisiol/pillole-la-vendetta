@@ -23,12 +23,12 @@
     - [x] G
     - [ ] N
 - integrare il contenuto delle precedenti pillole
-    - [ ] A
+    - [x] A
     - [x] C
     - [x] G
     - [ ] N
 - descrivere il contenuto di ciascuna pillola (aggiungendo gli esempi rilevanti esplicitamente)
-    - [ ] A
+    - [x] A
     - [x] C
     - [x] G
     - [ ] N
