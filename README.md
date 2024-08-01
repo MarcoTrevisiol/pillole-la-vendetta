@@ -33,7 +33,7 @@
     - [x] G
     - [ ] N
 - splittare completamente il programma in pillole
-    - [ ] A
+    - [x] A
     - [x] C
     - [x] G
     - [ ] N
