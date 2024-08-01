@@ -19,7 +19,7 @@
 
 # Disuguaglianze
 
-- [disuguaglianza AM - GM](algebra/disuguaglianza_amgm.md) - [esempi](algebra/disuguaglianze_amgm_esempi.md)
+- [disuguaglianza AM - GM](algebra/disuguaglianza_amgm.md) - [esempi](algebra/disuguaglianza_amgm_esempi.md)
 - [disuguaglianze Bunching](algebra/disuguaglianze_bunching.md) - [esempi](algebra/disuguaglianze_bunching_esempi.md)
 - [disuguaglianze convessità](algebra/disuguaglianze_convessita.md) - [esempi](algebra/disuguaglianze_convessita_esempi.md)
 - [disuguaglianze Cauchy - Schwarz](algebra/disuguaglianze_cs.md) - [esempi](algebra/disuguaglianze_cs_esempi.md)
