@@ -1,11 +1,5 @@
 # Disuguaglianze - riepilogo
 
-## Contenuti
-
-- Esercizi (da smistare nelle pillole di esercizi delle singole tecniche).
+- Svolgere l'IMO 2001 in vari modi.
 - Insistere sull'importanza di scrivere le soluzioni come catene di disuguaglianze.
 - Controesempi in casi di disomogeneità senza vincoli (e come usare i vincoli per omogeneizzare).
-
-## Esempi
-
-- IMO 2001
